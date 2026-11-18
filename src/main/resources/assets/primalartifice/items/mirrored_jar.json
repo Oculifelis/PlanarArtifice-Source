@@ -1,0 +1,18 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "primalartifice:block/mirrored_jar"
+      },
+      {
+        "type": "minecraft:special",
+        "base": "primalartifice:block/mirrored_jar",
+        "model": {
+          "type": "thaumaturge:jar"
+        }
+      }
+    ]
+  }
+}

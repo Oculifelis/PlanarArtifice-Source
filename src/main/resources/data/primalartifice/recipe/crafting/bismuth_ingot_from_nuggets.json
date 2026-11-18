@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:nuggets/bismuth",
+    "#c:nuggets/bismuth",
+    "#c:nuggets/bismuth",
+    "#c:nuggets/bismuth",
+    "#c:nuggets/bismuth",
+    "#c:nuggets/bismuth",
+    "#c:nuggets/bismuth",
+    "#c:nuggets/bismuth",
+    "#c:nuggets/bismuth"
+  ],
+  "result": {
+    "id": "primalartifice:bismuth_ingot"
+  }
+}

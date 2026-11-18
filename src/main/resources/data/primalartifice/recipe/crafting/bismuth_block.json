@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:ingots/bismuth",
+    "#c:ingots/bismuth",
+    "#c:ingots/bismuth",
+    "#c:ingots/bismuth",
+    "#c:ingots/bismuth",
+    "#c:ingots/bismuth",
+    "#c:ingots/bismuth",
+    "#c:ingots/bismuth",
+    "#c:ingots/bismuth"
+  ],
+  "result": {
+    "id": "primalartifice:bismuth_block"
+  }
+}

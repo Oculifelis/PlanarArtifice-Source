@@ -1,0 +1,15 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:has_component",
+    "component": "thaumaturge:mirror_link",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "primalartifice:item/flawless_mirror_essentia"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "primalartifice:item/flawless_mirror_essentia_on"
+    }
+  }
+}

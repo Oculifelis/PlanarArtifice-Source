@@ -1,0 +1,20 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 20
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 20
+    }
+  ],
+  "catalyst": "#c:ingots/thaumium",
+  "research": {
+    "entry": "primalartifice:bismuth"
+  },
+  "result": {
+    "id": "primalartifice:bismuth_ingot"
+  }
+}

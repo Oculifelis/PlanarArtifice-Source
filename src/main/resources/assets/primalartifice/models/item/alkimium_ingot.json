@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "primalartifice:item/alkimium_ingot"
+  }
+}

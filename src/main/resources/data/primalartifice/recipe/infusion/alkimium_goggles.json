@@ -1,0 +1,39 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:alkimia",
+      "amount": 75
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 50
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 50
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 75
+    }
+  ],
+  "catalyst": "thaumaturge:goggles_revealing",
+  "components": [
+    "thaumaturge:quicksilver",
+    "#c:plates/alkimium",
+    "thaumaturge:quicksilver",
+    "#c:plates/alkimium",
+    "thaumaturge:resonator",
+    "#c:plates/alkimium",
+    "thaumaturge:quicksilver",
+    "#c:plates/alkimium"
+  ],
+  "instability": 4,
+  "research": {
+    "entry": "primalartifice:alkimium_goggles"
+  },
+  "result": {
+    "id": "primalartifice:alkimium_goggles"
+  }
+}

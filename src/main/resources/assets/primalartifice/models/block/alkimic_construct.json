@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "primalartifice:block/alkimic_construct",
+    "top": "primalartifice:block/alkimic_construct_top",
+    "bottom": "primalartifice:block/alkimic_construct_top"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:alkimia",
+      "amount": 10
+    }
+  ],
+  "catalyst": "thaumaturge:amber",
+  "research": {
+    "entry": "primalartifice:reagent_transmutation"
+  },
+  "result": {
+    "id": "thaumaturge:quicksilver"
+  }
+}

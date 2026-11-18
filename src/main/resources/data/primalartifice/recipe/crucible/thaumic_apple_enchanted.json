@@ -1,0 +1,28 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 75
+    },
+    {
+      "aspect": "thaumaturge:victus",
+      "amount": 75
+    },
+    {
+      "aspect": "thaumaturge:bestia",
+      "amount": 50
+    },
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 50
+    }
+  ],
+  "catalyst": "minecraft:enchanted_golden_apple",
+  "research": {
+    "entry": "primalartifice:thaumic_apple"
+  },
+  "result": {
+    "id": "primalartifice:thaumaturges_fruit_enchanted"
+  }
+}

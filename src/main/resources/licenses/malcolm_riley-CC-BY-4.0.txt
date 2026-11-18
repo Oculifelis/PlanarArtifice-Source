@@ -1,0 +1,4 @@
+Magia Naturalis' Quicksilver Stone texture (assets/magianaturalis/textures/item/quicksilver_stone.png and its .mcmeta)
+is artifact_dripping_orb_2.png from "unused-textures" by Malcolm C. Riley, https://github.com/malcolmriley/unused-textures,
+licensed under Creative Commons Attribution 4.0 International: https://creativecommons.org/licenses/by/4.0/
+Changes: its tones are recoloured to Thaumaturge's quicksilver; the pixels, shading and 16-frame animation are his.

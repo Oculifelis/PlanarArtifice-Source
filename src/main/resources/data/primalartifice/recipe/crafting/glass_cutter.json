@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "IQ ",
+    "  S"
+  ],
+  "key": {
+    "I": "#c:ingots/iron",
+    "Q": "#c:gems/quartz",
+    "S": "#c:rods/wooden"
+  },
+  "result": {
+    "id": "primalartifice:glass_cutter"
+  }
+}

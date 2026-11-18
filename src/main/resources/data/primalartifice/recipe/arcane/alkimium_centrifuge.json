@@ -1,0 +1,31 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 2
+    }
+  ],
+  "key": {
+    "T": "thaumaturge:tube",
+    "M": "thaumaturge:morphic_resonator",
+    "*": "primalartifice:alkimic_construct",
+    "A": "thaumaturge:mechanism_complex"
+  },
+  "pattern": [
+    " T ",
+    "M*A",
+    " T "
+  ],
+  "research": {
+    "entry": "primalartifice:alkimium_centrifuge"
+  },
+  "result": {
+    "id": "primalartifice:alkimium_centrifuge"
+  },
+  "vis": 125
+}

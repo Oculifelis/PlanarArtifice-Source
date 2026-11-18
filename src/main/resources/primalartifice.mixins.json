@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.primalartifice.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BlockEntityHungryChestMixin",
+    "BlockEntityMirrorBaseAccessor",
+    "BlockEntityMirrorBaseMixin",
+    "BlockEntitySmelterMixin"
+  ],
+  "client": [
+    "client.HungryChestRendererMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

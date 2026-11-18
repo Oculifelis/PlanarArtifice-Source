@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "primalartifice:glass_clear",
+    "primalartifice:glass_crystal",
+    "primalartifice:glass_hardened",
+    "primalartifice:glass_light",
+    "primalartifice:glass_redstone"
+  ]
+}

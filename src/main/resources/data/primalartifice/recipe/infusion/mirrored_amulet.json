@@ -1,0 +1,29 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 40
+    }
+  ],
+  "catalyst": "thaumaturge:amulet_fancy",
+  "components": [
+    "thaumaturge:mirror",
+    "minecraft:ender_pearl"
+  ],
+  "instability": 6,
+  "research": {
+    "entry": "primalartifice:mirrored_amulet"
+  },
+  "result": {
+    "id": "primalartifice:mirrored_amulet"
+  }
+}

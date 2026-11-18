@@ -1,0 +1,29 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 80
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 150
+    }
+  ],
+  "catalyst": "minecraft:book",
+  "components": [
+    "thaumaturge:hand_mirror"
+  ],
+  "instability": 4,
+  "research": {
+    "entry": "primalartifice:planar_infusion_enchantment"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "primalartifice:mirrored": 1
+      }
+    }
+  }
+}

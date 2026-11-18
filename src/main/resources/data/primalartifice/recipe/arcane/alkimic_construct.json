@@ -1,0 +1,36 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 2
+    }
+  ],
+  "key": {
+    "A": "#c:plates/alkimium",
+    "V": "thaumaturge:tube_valve",
+    "T": "thaumaturge:tube",
+    "P": "thaumaturge:plank_silverwood"
+  },
+  "pattern": [
+    "AVA",
+    "TPT",
+    "AVA"
+  ],
+  "research": {
+    "entry": "primalartifice:alkimium_applications"
+  },
+  "result": {
+    "id": "primalartifice:alkimic_construct",
+    "count": 2
+  },
+  "vis": 100
+}

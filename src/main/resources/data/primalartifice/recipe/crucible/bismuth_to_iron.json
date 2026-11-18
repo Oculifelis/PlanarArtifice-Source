@@ -1,0 +1,16 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:metallum",
+      "amount": 10
+    }
+  ],
+  "catalyst": "#c:ingots/bismuth",
+  "research": {
+    "entry": "primalartifice:metal_transmutation"
+  },
+  "result": {
+    "id": "minecraft:iron_ingot"
+  }
+}

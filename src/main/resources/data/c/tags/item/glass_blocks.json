@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "primalartifice:glass_clear",
+    "primalartifice:glass_crystal",
+    "primalartifice:glass_hardened",
+    "primalartifice:glass_light",
+    "primalartifice:glass_redstone",
+    "primalartifice:glass_entity",
+    "primalartifice:glass_non_living",
+    "primalartifice:glass_ethereal"
+  ]
+}

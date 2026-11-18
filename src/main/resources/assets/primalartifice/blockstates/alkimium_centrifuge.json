@@ -1,0 +1,14 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "primalartifice:block/alkimium_centrifuge"
+      }
+    },
+    {
+      "apply": {
+        "model": "primalartifice:block/alkimium_centrifuge_spinner"
+      }
+    }
+  ]
+}

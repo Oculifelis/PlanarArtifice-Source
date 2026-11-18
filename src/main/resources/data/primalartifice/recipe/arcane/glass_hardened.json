@@ -1,0 +1,39 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 1
+    }
+  ],
+  "key": {
+    "O": "#c:obsidians",
+    "G": "#c:glass_blocks/colorless",
+    "C": {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:praemunio"
+        }
+      }
+    }
+  },
+  "pattern": [
+    "OGO",
+    "GCG",
+    "OGO"
+  ],
+  "research": {
+    "entry": "primalartifice:glassworking"
+  },
+  "result": {
+    "id": "primalartifice:glass_hardened",
+    "count": 4
+  },
+  "vis": 10
+}

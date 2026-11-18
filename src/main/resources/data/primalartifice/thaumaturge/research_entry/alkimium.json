@@ -1,0 +1,52 @@
+{
+  "category": "primalartifice:planar_artifice",
+  "name": "research.primalartifice.alkimium.title",
+  "parents": [
+    "primalartifice:planar_artifice",
+    "thaumaturge:metallurgy",
+    "thaumaturge:essentia_smelter"
+  ],
+  "column": 2,
+  "row": 0,
+  "icons": [
+    "primalartifice:alkimium_ingot"
+  ],
+  "stages": [
+    {
+      "text": "research.primalartifice.alkimium.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "thaumaturge:alchemy",
+          "amount": 1
+        },
+        {
+          "type": "observation",
+          "category": "thaumaturge:alchemy",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.primalartifice.alkimium.stage_1",
+      "recipes": [
+        "primalartifice:crucible/alkimium_ingot"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:alkimia",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:metallum",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 4
+    }
+  ],
+  "complexity": 2
+}

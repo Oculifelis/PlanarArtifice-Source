@@ -1,0 +1,6 @@
+{
+  "parent": "thaumaturge:block/centrifuge_spinner",
+  "textures": {
+    "brass": "primalartifice:block/alkimium_metal"
+  }
+}

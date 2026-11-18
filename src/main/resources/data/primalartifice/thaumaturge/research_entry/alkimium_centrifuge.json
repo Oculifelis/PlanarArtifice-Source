@@ -1,0 +1,51 @@
+{
+  "category": "primalartifice:planar_artifice",
+  "name": "research.primalartifice.alkimium_centrifuge.title",
+  "parents": [
+    "primalartifice:alkimium_applications",
+    "thaumaturge:centrifuge"
+  ],
+  "column": 6,
+  "row": 0,
+  "icons": [
+    "primalartifice:alkimium_centrifuge"
+  ],
+  "stages": [
+    {
+      "text": "research.primalartifice.alkimium_centrifuge.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "thaumaturge:alchemy",
+          "amount": 1
+        },
+        {
+          "type": "observation",
+          "category": "thaumaturge:alchemy",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.primalartifice.alkimium_centrifuge.stage_1",
+      "recipes": [
+        "primalartifice:arcane/alkimium_centrifuge"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:alkimia",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 4
+    }
+  ],
+  "complexity": 2
+}

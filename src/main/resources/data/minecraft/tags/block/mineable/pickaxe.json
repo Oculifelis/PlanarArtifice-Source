@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "primalartifice:alkimium_block",
+    "primalartifice:bismuth_block",
+    "primalartifice:alkimic_construct",
+    "primalartifice:alkimium_smeltery",
+    "primalartifice:alkimium_smeltery_thaumium",
+    "primalartifice:alkimium_smeltery_void",
+    "primalartifice:alkimium_smelter_aux",
+    "primalartifice:alkimium_smelter_vent",
+    "primalartifice:alkimium_centrifuge",
+    "primalartifice:flawless_mirror",
+    "primalartifice:flawless_mirror_essentia"
+  ]
+}

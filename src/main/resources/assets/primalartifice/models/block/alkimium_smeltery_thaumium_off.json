@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "primalartifice:block/alkimium_smeltery_bottom",
+    "up": "primalartifice:block/alkimium_smeltery_thaumium_top",
+    "north": "primalartifice:block/alkimium_smeltery_thaumium_front_off",
+    "east": "primalartifice:block/alkimium_smeltery_thaumium_side",
+    "south": "primalartifice:block/alkimium_smeltery_thaumium_side",
+    "west": "primalartifice:block/alkimium_smeltery_thaumium_side",
+    "particle": "primalartifice:block/alkimium_smeltery_thaumium_side"
+  }
+}

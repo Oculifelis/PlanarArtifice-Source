@@ -1,0 +1,38 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 150
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 240
+    }
+  ],
+  "catalyst": {
+    "neoforge:ingredient_type": "neoforge:components",
+    "items": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "primalartifice:metaphize": 2
+      }
+    }
+  },
+  "components": [
+    "thaumaturge:jar_brain",
+    "thaumaturge:vis_resonator"
+  ],
+  "instability": 8,
+  "research": {
+    "entry": "primalartifice:planar_infusion_enchantment"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "primalartifice:metaphize": 3
+      }
+    }
+  }
+}

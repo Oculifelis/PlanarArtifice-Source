@@ -1,0 +1,6 @@
+{
+  "parent": "thaumaturge:block/smelter_aux",
+  "textures": {
+    "brass": "primalartifice:block/alkimium_metal"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 1
+    }
+  ],
+  "key": {
+    "G": "#c:glass_blocks/colorless",
+    "C": {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:vitreus"
+        }
+      }
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GCG",
+    "GGG"
+  ],
+  "research": {
+    "entry": "primalartifice:glassworking"
+  },
+  "result": {
+    "id": "primalartifice:glass_crystal",
+    "count": 8
+  },
+  "vis": 2
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:ingots/alkimium",
+    "#c:ingots/alkimium",
+    "#c:ingots/alkimium",
+    "#c:ingots/alkimium",
+    "#c:ingots/alkimium",
+    "#c:ingots/alkimium",
+    "#c:ingots/alkimium",
+    "#c:ingots/alkimium",
+    "#c:ingots/alkimium"
+  ],
+  "result": {
+    "id": "primalartifice:alkimium_block"
+  }
+}

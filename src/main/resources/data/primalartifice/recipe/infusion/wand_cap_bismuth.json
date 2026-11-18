@@ -1,0 +1,31 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 12
+    }
+  ],
+  "catalyst": "primalartifice:wand_cap_bismuth_inert",
+  "components": [
+    "thaumaturge:fabric",
+    "thaumaturge:filter",
+    "thaumaturge:morphic_resonator",
+    "thaumaturge:fabric"
+  ],
+  "instability": 3,
+  "research": {
+    "entry": "primalartifice:bismuth_caster"
+  },
+  "result": {
+    "id": "primalartifice:wand_cap_bismuth"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "category": "primalartifice:planar_artifice",
+  "name": "research.primalartifice.alkimium_applications.title",
+  "parents": [
+    "primalartifice:alkimium",
+    "thaumaturge:essentia_smelter"
+  ],
+  "column": 4,
+  "row": 0,
+  "icons": [
+    "primalartifice:alkimium_smeltery"
+  ],
+  "stages": [
+    {
+      "text": "research.primalartifice.alkimium_applications.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "thaumaturge:alchemy",
+          "amount": 1
+        },
+        {
+          "type": "observation",
+          "category": "thaumaturge:alchemy",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.primalartifice.alkimium_applications.stage_1",
+      "recipes": [
+        "primalartifice:arcane/alkimic_construct",
+        "primalartifice:arcane/alkimium_smeltery"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:alkimia",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:machina",
+      "amount": 4
+    }
+  ],
+  "complexity": 2
+}

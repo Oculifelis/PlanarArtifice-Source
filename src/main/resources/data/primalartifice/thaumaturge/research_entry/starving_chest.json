@@ -1,0 +1,55 @@
+{
+  "category": "primalartifice:planar_artifice",
+  "name": "research.primalartifice.starving_chest.title",
+  "parents": [
+    "primalartifice:bismuth",
+    "thaumaturge:hungry_chest",
+    "thaumaturge:infusion"
+  ],
+  "column": -1,
+  "row": -5,
+  "icons": [
+    "primalartifice:starving_chest_small"
+  ],
+  "stages": [
+    {
+      "text": "research.primalartifice.starving_chest.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "thaumaturge:infusion",
+          "amount": 1
+        },
+        {
+          "type": "observation",
+          "category": "thaumaturge:infusion",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.primalartifice.starving_chest.stage_1",
+      "recipes": [
+        "primalartifice:infusion/starving_chest_small",
+        "primalartifice:infusion/starving_chest_medium",
+        "primalartifice:infusion/starving_chest_large",
+        "primalartifice:infusion/starving_chest_huge"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:vinculum",
+      "amount": 4
+    }
+  ],
+  "complexity": 2
+}

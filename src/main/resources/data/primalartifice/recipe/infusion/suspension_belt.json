@@ -1,0 +1,55 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 75
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 50
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 65
+    },
+    {
+      "aspect": "thaumaturge:volatus",
+      "amount": 125
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 50
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 75
+    }
+  ],
+  "catalyst": "thaumaturge:girdle_fancy",
+  "components": [
+    "minecraft:feather",
+    "thaumaturge:cloud_ring",
+    "minecraft:sugar",
+    "thaumaturge:alumentum",
+    "thaumaturge:levitator",
+    "thaumaturge:paving_stone_barrier",
+    "minecraft:piston",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:aer"
+        }
+      }
+    }
+  ],
+  "instability": 6,
+  "research": {
+    "entry": "primalartifice:suspension_belt"
+  },
+  "result": {
+    "id": "primalartifice:suspension_belt"
+  }
+}

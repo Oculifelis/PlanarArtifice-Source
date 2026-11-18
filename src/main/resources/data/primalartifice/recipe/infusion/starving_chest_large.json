@@ -1,0 +1,31 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 75
+    },
+    {
+      "aspect": "thaumaturge:vinculum",
+      "amount": 75
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 75
+    }
+  ],
+  "catalyst": "primalartifice:starving_chest_medium",
+  "components": [
+    "thaumaturge:filter",
+    "#c:plates/bismuth",
+    "minecraft:hopper",
+    "#c:plates/bismuth"
+  ],
+  "instability": 9,
+  "research": {
+    "entry": "primalartifice:starving_chest"
+  },
+  "result": {
+    "id": "primalartifice:starving_chest_large"
+  }
+}

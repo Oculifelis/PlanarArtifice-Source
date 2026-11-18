@@ -1,0 +1,50 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 1
+    }
+  ],
+  "key": {
+    "B": "#c:ingots/bismuth",
+    "T": "#c:ingots/thaumium"
+  },
+  "pattern": [
+    " B ",
+    "BBB",
+    " T "
+  ],
+  "research": {
+    "entry": "primalartifice:bismuth"
+  },
+  "result": {
+    "id": "primalartifice:bismuth_claymore",
+    "components": {
+      "minecraft:enchantments": {
+        "primalartifice:metaphize": 2
+      }
+    }
+  },
+  "vis": 50
+}

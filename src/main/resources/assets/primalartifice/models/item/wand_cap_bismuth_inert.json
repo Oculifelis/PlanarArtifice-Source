@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "primalartifice:item/wand_cap_bismuth_inert"
+  }
+}

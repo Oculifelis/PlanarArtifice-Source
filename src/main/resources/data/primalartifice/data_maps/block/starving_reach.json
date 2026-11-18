@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": {
+    "primalartifice:starving_chest_small": {
+      "radius": 1
+    },
+    "primalartifice:starving_chest_medium": {
+      "radius": 2
+    },
+    "primalartifice:starving_chest_large": {
+      "radius": 3
+    },
+    "primalartifice:starving_chest_huge": {
+      "radius": 4
+    }
+  }
+}

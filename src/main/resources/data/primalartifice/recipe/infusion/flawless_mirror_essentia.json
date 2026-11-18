@@ -1,0 +1,36 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 75
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 75
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 75
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 75
+    }
+  ],
+  "catalyst": "thaumaturge:mirror_essentia",
+  "components": [
+    "thaumaturge:primordial_pearl",
+    "#c:ingots/alkimium",
+    "#c:plates/bismuth",
+    "#c:ingots/alkimium",
+    "#c:plates/bismuth"
+  ],
+  "instability": 9,
+  "research": {
+    "entry": "primalartifice:flawless_mirrors"
+  },
+  "result": {
+    "id": "primalartifice:flawless_mirror_essentia"
+  }
+}

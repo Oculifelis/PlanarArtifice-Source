@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "primalartifice:block/alkimium_smelter_vent"
+    },
+    "facing=east": {
+      "model": "primalartifice:block/alkimium_smelter_vent",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "primalartifice:block/alkimium_smelter_vent",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "primalartifice:block/alkimium_smelter_vent",
+      "y": 270
+    }
+  }
+}

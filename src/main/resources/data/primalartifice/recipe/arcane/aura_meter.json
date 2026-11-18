@@ -1,0 +1,45 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 1
+    }
+  ],
+  "key": {
+    "B": "#c:plates/bismuth",
+    "M": "thaumaturge:mirrored_glass"
+  },
+  "pattern": [
+    "B",
+    "M",
+    "B"
+  ],
+  "research": {
+    "entry": "primalartifice:bismuth"
+  },
+  "result": {
+    "id": "primalartifice:aura_meter"
+  },
+  "vis": 25
+}

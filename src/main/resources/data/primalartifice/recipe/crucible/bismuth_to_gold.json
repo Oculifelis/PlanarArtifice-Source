@@ -1,0 +1,16 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 10
+    }
+  ],
+  "catalyst": "#c:ingots/bismuth",
+  "research": {
+    "entry": "primalartifice:metal_transmutation"
+  },
+  "result": {
+    "id": "minecraft:gold_ingot"
+  }
+}

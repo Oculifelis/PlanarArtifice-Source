@@ -1,0 +1,53 @@
+{
+  "category": "primalartifice:planar_artifice",
+  "name": "research.primalartifice.glassworking.title",
+  "parents": [
+    "primalartifice:planar_artifice"
+  ],
+  "column": -2,
+  "row": 0,
+  "icons": [
+    "primalartifice:glass_clear"
+  ],
+  "stages": [
+    {
+      "text": "research.primalartifice.glassworking.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "thaumaturge:artifice",
+          "amount": 1
+        },
+        {
+          "type": "observation",
+          "category": "thaumaturge:artifice",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.primalartifice.glassworking.stage_1",
+      "recipes": [
+        "primalartifice:crafting/glass_cutter",
+        "primalartifice:arcane/glass_clear",
+        "primalartifice:arcane/glass_crystal",
+        "primalartifice:arcane/glass_hardened"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:fabrico",
+      "amount": 3
+    }
+  ],
+  "complexity": 1
+}

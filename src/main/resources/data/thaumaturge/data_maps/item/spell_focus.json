@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": {
+    "primalartifice:flawless_focus": {
+      "branches": 6,
+      "complexity": 120,
+      "depth": 18,
+      "repeats": 6
+    }
+  }
+}

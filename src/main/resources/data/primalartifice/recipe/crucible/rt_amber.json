@@ -1,0 +1,16 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:vinculum",
+      "amount": 10
+    }
+  ],
+  "catalyst": "thaumaturge:quicksilver",
+  "research": {
+    "entry": "primalartifice:reagent_transmutation"
+  },
+  "result": {
+    "id": "thaumaturge:amber"
+  }
+}

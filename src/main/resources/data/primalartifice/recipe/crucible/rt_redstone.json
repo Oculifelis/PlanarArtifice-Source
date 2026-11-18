@@ -1,0 +1,16 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 5
+    }
+  ],
+  "catalyst": "minecraft:gunpowder",
+  "research": {
+    "entry": "primalartifice:reagent_transmutation"
+  },
+  "result": {
+    "id": "minecraft:redstone"
+  }
+}

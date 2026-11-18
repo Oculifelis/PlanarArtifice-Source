@@ -1,0 +1,28 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 2
+    }
+  ],
+  "key": {
+    "A": "#c:plates/alkimium",
+    "C": "thaumaturge:crucible",
+    "#": "#c:cobblestones",
+    "F": "minecraft:furnace",
+    "*": "primalartifice:alkimic_construct"
+  },
+  "pattern": [
+    "ACA",
+    "#F#",
+    "#*#"
+  ],
+  "research": {
+    "entry": "primalartifice:alkimium_applications"
+  },
+  "result": {
+    "id": "primalartifice:alkimium_smeltery"
+  },
+  "vis": 75
+}

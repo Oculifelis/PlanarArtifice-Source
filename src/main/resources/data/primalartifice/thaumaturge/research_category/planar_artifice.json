@@ -1,0 +1,33 @@
+{
+  "background": "primalartifice:textures/gui/research_back.png",
+  "formula": [
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 20
+    },
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 15
+    },
+    {
+      "aspect": "thaumaturge:alkimia",
+      "amount": 15
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:metallum",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 10
+    }
+  ],
+  "icon": "primalartifice:textures/misc/category_icon.png",
+  "index": 9,
+  "overlay_background": "thaumaturge:textures/gui/gui_research_back_over.png",
+  "required_research": "thaumaturge:first_steps"
+}

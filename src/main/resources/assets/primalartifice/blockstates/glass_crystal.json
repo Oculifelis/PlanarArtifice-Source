@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": {
+      "type": "primalartifice:connected",
+      "connects_to": "#primalartifice:connects/glass_crystal",
+      "textures": {
+        "all": "primalartifice:block/glass_crystal",
+        "horizontal": "primalartifice:block/glass_crystal_ctm_horizontal",
+        "vertical": "primalartifice:block/glass_crystal_ctm_vertical",
+        "corners": "primalartifice:block/glass_crystal_ctm_corners",
+        "inner": "primalartifice:block/glass_crystal_ctm_inner"
+      }
+    }
+  }
+}

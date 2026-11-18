@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III"
+  ],
+  "key": {
+    "I": "#c:ingots/alkimium"
+  },
+  "result": {
+    "id": "primalartifice:alkimium_plate",
+    "count": 3
+  }
+}

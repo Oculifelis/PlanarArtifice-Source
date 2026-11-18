@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": {
+    "primalartifice:alkimium_smeltery": {
+      "efficiency": 0.85,
+      "smelt_interval": 10
+    },
+    "primalartifice:alkimium_smeltery_thaumium": {
+      "efficiency": 0.95,
+      "smelt_interval": 5
+    },
+    "primalartifice:alkimium_smeltery_void": {
+      "efficiency": 1.0,
+      "smelt_interval": 10
+    }
+  }
+}

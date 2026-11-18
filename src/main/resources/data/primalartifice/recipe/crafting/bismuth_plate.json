@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III"
+  ],
+  "key": {
+    "I": "#c:ingots/bismuth"
+  },
+  "result": {
+    "id": "primalartifice:bismuth_plate",
+    "count": 3
+  }
+}

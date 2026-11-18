@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:ingots/alkimium"
+  ],
+  "result": {
+    "id": "primalartifice:alkimium_nugget",
+    "count": 9
+  }
+}

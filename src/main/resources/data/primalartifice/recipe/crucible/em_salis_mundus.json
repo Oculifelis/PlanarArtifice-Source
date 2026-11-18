@@ -1,0 +1,16 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 10
+    }
+  ],
+  "catalyst": "minecraft:redstone",
+  "research": {
+    "entry": "primalartifice:essentia_manipulation"
+  },
+  "result": {
+    "id": "thaumaturge:salis_mundus"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": {
+      "type": "primalartifice:connected",
+      "connects_to": "#primalartifice:connects/glass_hardened",
+      "textures": {
+        "all": "primalartifice:block/glass_hardened",
+        "horizontal": "primalartifice:block/glass_hardened_ctm_horizontal",
+        "vertical": "primalartifice:block/glass_hardened_ctm_vertical",
+        "corners": "primalartifice:block/glass_hardened_ctm_corners",
+        "inner": "primalartifice:block/glass_hardened_ctm_inner"
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "category": "primalartifice:planar_artifice",
+  "name": "research.primalartifice.planar_artifice.title",
+  "parents": [
+    "thaumaturge:first_steps"
+  ],
+  "column": 0,
+  "row": 0,
+  "icons": [
+    "primalartifice:bismuth_ingot"
+  ],
+  "stages": [
+    {
+      "text": "research.primalartifice.planar_artifice.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "thaumaturge:basics",
+          "amount": 1
+        },
+        {
+          "type": "observation",
+          "category": "thaumaturge:basics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.primalartifice.planar_artifice.stage_1",
+      "recipes": []
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 4
+    }
+  ],
+  "complexity": 1,
+  "meta": [
+    "round"
+  ]
+}

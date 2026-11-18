@@ -1,0 +1,10 @@
+{
+  "tag": "tinctura",
+  "color": 16777215,
+  "components": [
+    "thaumaturge:permutatio",
+    "thaumaturge:sensus"
+  ],
+  "texture": "primalartifice:textures/aspects/tinctura.png",
+  "blend": 771
+}

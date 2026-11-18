@@ -1,0 +1,35 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 150
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 50
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 100
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 150
+    }
+  ],
+  "catalyst": "thaumaturge:primordial_pearl",
+  "components": [
+    "#c:storage_blocks/bismuth",
+    "thaumaturge:focus_3",
+    "#c:storage_blocks/bismuth",
+    "minecraft:nether_star"
+  ],
+  "instability": 10,
+  "research": {
+    "entry": "primalartifice:flawless_foci"
+  },
+  "result": {
+    "id": "primalartifice:flawless_focus"
+  }
+}

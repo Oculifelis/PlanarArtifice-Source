@@ -1,0 +1,10 @@
+{
+  "tag": "spatio",
+  "color": 4912981,
+  "components": [
+    "thaumaturge:vacuos",
+    "thaumaturge:perditio"
+  ],
+  "texture": "primalartifice:textures/aspects/spatio.png",
+  "blend": 1
+}

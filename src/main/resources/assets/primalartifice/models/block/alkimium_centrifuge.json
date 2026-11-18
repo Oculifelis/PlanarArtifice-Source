@@ -1,0 +1,6 @@
+{
+  "parent": "thaumaturge:block/centrifuge",
+  "textures": {
+    "brass": "primalartifice:block/alkimium_metal"
+  }
+}

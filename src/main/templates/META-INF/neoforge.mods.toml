@@ -1,0 +1,43 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="Oculifelis"
+credits="Original Planar Artifice: Reflected by the Elite Modding Team (Thaumcraft 6, 1.12.2). Thaumaturge by Leclowndu93150 and contributors. This port is a clean reimplementation with new textures, by Oculifelis."
+description='''
+Planar Artifice, reimagined as a Thaumaturge addon for NeoForge 26.1.2.
+Glassworking (nine new glasses and glass cutters), Bismuth (reagent transmutation, the aura meter, bismuth caps and the flawless focus), Alkimium (better smelteries, pumps, vents, centrifuge and goggles) and the Mirromirous arts (mirror-linked tools, amulet and jars, the belt of suspension, flawless mirrors).
+'''
+
+# Hooks the Alkimium pump and vent into Thaumaturge's smelter.
+[[mixins]]
+config="primalartifice.mixins.json"
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[26.1.2.71,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="curios"
+    type="required"
+    versionRange="[15,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="thaumaturge"
+    type="required"
+    versionRange="${thaumaturge_version_range}"
+    ordering="AFTER"
+    side="BOTH"

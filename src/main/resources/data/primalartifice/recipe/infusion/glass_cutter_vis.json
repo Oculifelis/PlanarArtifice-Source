@@ -1,0 +1,27 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 25
+    },
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 25
+    }
+  ],
+  "catalyst": "primalartifice:glass_cutter",
+  "components": [
+    "#c:gems/amber",
+    "#c:ingots/alkimium",
+    "#c:gems/amber",
+    "#c:ingots/alkimium"
+  ],
+  "instability": 2,
+  "research": {
+    "entry": "primalartifice:alchemical_glass_cutter"
+  },
+  "result": {
+    "id": "primalartifice:glass_cutter_vis"
+  }
+}

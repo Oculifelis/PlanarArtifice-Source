@@ -1,0 +1,27 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 4
+    }
+  ],
+  "key": {
+    "A": "#c:plates/alkimium",
+    "#": "primalartifice:alkimium_smeltery",
+    "T": "#c:plates/thaumium",
+    "*": "primalartifice:alkimic_construct"
+  },
+  "pattern": [
+    "A#A",
+    "T*T",
+    "TTT"
+  ],
+  "research": {
+    "entry": "primalartifice:alkimium_thaumium_smeltery"
+  },
+  "result": {
+    "id": "primalartifice:alkimium_smeltery_thaumium"
+  },
+  "vis": 300
+}

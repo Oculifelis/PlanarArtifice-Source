@@ -1,0 +1,15 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "primalartifice:block/alkimium_centrifuge"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "primalartifice:block/alkimium_centrifuge_spinner"
+      }
+    ]
+  }
+}

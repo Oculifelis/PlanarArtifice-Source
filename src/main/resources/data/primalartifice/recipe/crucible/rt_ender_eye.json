@@ -1,0 +1,24 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 20
+    }
+  ],
+  "catalyst": "minecraft:spider_eye",
+  "research": {
+    "entry": "primalartifice:reagent_transmutation"
+  },
+  "result": {
+    "id": "minecraft:ender_eye"
+  }
+}

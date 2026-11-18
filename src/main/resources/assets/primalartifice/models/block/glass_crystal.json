@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "primalartifice:block/glass_crystal"
+  },
+  "render_type": "minecraft:translucent"
+}

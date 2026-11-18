@@ -1,0 +1,9 @@
+{
+  "tag": "tempus",
+  "color": 14080835,
+  "components": [
+    "primalartifice:spatio",
+    "thaumaturge:permutatio"
+  ],
+  "texture": "primalartifice:textures/aspects/tempus.png"
+}

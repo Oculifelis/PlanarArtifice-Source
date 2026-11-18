@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "primalartifice:block/glass_clear"
+  },
+  "render_type": "minecraft:cutout"
+}

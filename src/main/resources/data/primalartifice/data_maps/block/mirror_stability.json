@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": {
+    "primalartifice:flawless_mirror": {
+      "flux_threshold": 512,
+      "decay_interval": 20
+    },
+    "primalartifice:flawless_mirror_essentia": {
+      "flux_threshold": 512,
+      "decay_interval": 20
+    }
+  }
+}

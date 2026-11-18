@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "primalartifice:starving_chest_small",
+    "primalartifice:starving_chest_medium",
+    "primalartifice:starving_chest_large",
+    "primalartifice:starving_chest_huge",
+    "primalartifice:mirrored_jar"
+  ]
+}

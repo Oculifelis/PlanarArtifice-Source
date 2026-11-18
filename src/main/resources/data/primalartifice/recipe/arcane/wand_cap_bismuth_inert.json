@@ -1,0 +1,43 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 2
+    }
+  ],
+  "key": {
+    "N": "#c:nuggets/bismuth"
+  },
+  "pattern": [
+    "NNN",
+    "N N"
+  ],
+  "research": {
+    "entry": "primalartifice:bismuth_caster"
+  },
+  "result": {
+    "id": "primalartifice:wand_cap_bismuth_inert"
+  },
+  "vis": 50
+}

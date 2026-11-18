@@ -1,0 +1,33 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 2
+    }
+  ],
+  "key": {
+    "S": "thaumaturge:plank_silverwood",
+    "T": "thaumaturge:tube_filter",
+    "A": "#c:plates/alkimium",
+    "*": "primalartifice:alkimic_construct",
+    "I": "#c:plates/iron",
+    "#": "thaumaturge:bellows"
+  },
+  "pattern": [
+    "STS",
+    "A*A",
+    "I#I"
+  ],
+  "research": {
+    "entry": "primalartifice:alkimium_distillation"
+  },
+  "result": {
+    "id": "primalartifice:alkimium_smelter_aux"
+  },
+  "vis": 125
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "primalartifice:block/flawless_mirrorframe2",
+    "layer1": "thaumaturge:block/mirrorpaneopen"
+  }
+}

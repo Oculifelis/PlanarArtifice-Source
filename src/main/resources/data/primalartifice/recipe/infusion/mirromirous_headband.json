@@ -1,0 +1,35 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 175
+    },
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 100
+    },
+    {
+      "aspect": "thaumaturge:vinculum",
+      "amount": 125
+    }
+  ],
+  "catalyst": "thaumaturge:curiosity_band",
+  "components": [
+    "#c:plates/bismuth",
+    "minecraft:enchanted_book",
+    "#c:plates/bismuth",
+    "minecraft:enchanted_book",
+    "#c:plates/bismuth",
+    "minecraft:enchanted_book",
+    "#c:plates/bismuth",
+    "minecraft:enchanted_book"
+  ],
+  "instability": 7,
+  "research": {
+    "entry": "primalartifice:mirromirous_headband"
+  },
+  "result": {
+    "id": "primalartifice:mirromirous_headband"
+  }
+}

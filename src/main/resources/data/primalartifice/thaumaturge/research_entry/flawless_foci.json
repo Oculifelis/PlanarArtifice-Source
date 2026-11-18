@@ -1,0 +1,56 @@
+{
+  "category": "primalartifice:planar_artifice",
+  "name": "research.primalartifice.flawless_foci.title",
+  "parents": [
+    "primalartifice:bismuth_caster",
+    "primalartifice:alkimium",
+    "thaumaturge:focus_greater"
+  ],
+  "column": 0,
+  "row": -8,
+  "icons": [
+    "primalartifice:flawless_focus"
+  ],
+  "stages": [
+    {
+      "text": "research.primalartifice.flawless_foci.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "thaumaturge:auromancy",
+          "amount": 1
+        },
+        {
+          "type": "observation",
+          "category": "thaumaturge:auromancy",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.primalartifice.flawless_foci.stage_1",
+      "recipes": [
+        "primalartifice:infusion/flawless_focus"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 5
+    }
+  ],
+  "complexity": 3
+}
